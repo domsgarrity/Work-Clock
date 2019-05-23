@@ -1,3 +1,5 @@
+Project to demonstrate a takt clock that accounts for lunch, breaks, and work days. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
